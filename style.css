@@ -1,0 +1,28 @@
+.heading{
+    margin:0px;
+    width:100%;
+    font-size:21px;
+}
+
+.div_speed{
+float: left;
+}
+
+.div_volume{
+    float: right;
+    }
+
+.disk_speed{
+    width:200px;
+    border-radius:100px;
+}
+
+.disk_volume{
+    width:200px;
+    border-radius:100px;
+}
+
+#speed,#volume{
+    font-size: 25px;
+    margin:15px;
+}
